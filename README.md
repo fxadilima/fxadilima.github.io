@@ -1,3 +1,2 @@
-# &#129413; Cerita Silat
+# 📖 Cerita Silat
 
-This is my &#127968; Home
