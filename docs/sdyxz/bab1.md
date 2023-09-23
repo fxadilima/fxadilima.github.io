@@ -11,7 +11,9 @@ nextPage: bab2
 prevPage: intro
 ---
 
-# Bab 1
+# 🦅 Bab 1
+
+[Next ▶](bab2.md)
 
 Di masa itu, di dekat kota Lin'an, sebelah Timur wilayah Jin, dua orang pemuda
 yang bersahabat karib sedang minum arak sambil menikmati cerita rakyat di sebuah
@@ -1932,3 +1934,5 @@ aku ingin buang lebih banyak uang juga tidak bisa." kata Yan Lie.
 
 [^daozhang]: Dào Zhang (道长, bisa juga ditulis Dào cháng) adalah panggilan umum untuk seorang pendeta Tao, terlepas dari jabatan yang 
     dipegangnya dalam sebuah perguruan, organisasi, ataupun hirarki kepemimpinan Tao lainnya.
+
+[Next ▶](bab2.md).
