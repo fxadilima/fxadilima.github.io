@@ -6,3 +6,7 @@ Konten yang ada di sini:
 - [📚 Lume Book](https://fxadilima.github.io/lume-book) - Dokumentasi dan Tutorial.
 - [⚔ Menjelajah Dunia](https://fxadilima.github.io/menjelajah-dunia) - Cerita Silat.
 
+Plus sebuah link ke [📚 Info yang dibuat dengan Vite](https://fxadilima.github.io/info.html)
+
+
+
