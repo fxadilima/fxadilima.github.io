@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## &#128278; What is this?
 
 Contains Indonesian translation of Jin Yong novel, Divine Eagle Shooting Heroes (She Diao Ying Xiong Zhuan, 射鵰英雄傳)
@@ -9,3 +13,4 @@ which in turn was published by Hong Kong Commercial Daily from 1957, January 1 -
 Because I am _not_ quite familiar with Chinese writings, then I can only translate the story from the English version.
 
 [Reading](sdyxz/bab1)
+
