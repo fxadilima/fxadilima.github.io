@@ -8,4 +8,4 @@ which in turn was published by Hong Kong Commercial Daily from 1957, January 1 -
 
 Because I am _not_ quite familiar with Chinese writings, then I can only translate the story from the English version.
 
-[Reading](sdyxz/bab1.md)
+[Reading](sdyxz/bab1)
