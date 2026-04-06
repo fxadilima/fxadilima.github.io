@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 📔 About This Site
 
 Konten yang ada di sini:
@@ -8,3 +12,4 @@ Konten yang ada di sini:
 - [⚔ Menjelajah Dunia](https://fxadilima.github.io/menjelajah-dunia) - Cerita Silat.
 
 Plus sebuah link ke [📚 Info yang dibuat dengan Vite](https://fxadilima.github.io/info.html)
+
