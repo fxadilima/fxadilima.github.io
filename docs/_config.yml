@@ -1,4 +1,4 @@
-remote_theme: aspirethemes/maxima
+remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: ⚔ FX. Adi Lima | Home Page
