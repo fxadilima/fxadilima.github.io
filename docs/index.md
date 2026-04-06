@@ -1,6 +1,5 @@
 ---
 layout: home
-title: FX. Adi Lima | Personal Pages
 ---
 
 Konten yang ada di sini:
