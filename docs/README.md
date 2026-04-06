@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# 📔 About This Site
+# 📔 About
 
 Konten yang ada di sini:
 
