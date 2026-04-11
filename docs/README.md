@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Portfolio
 ---
 
-# README
+Technical page...
 
-This is a technical page...
+Currently has no info...
 
