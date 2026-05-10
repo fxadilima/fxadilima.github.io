@@ -1,7 +1,8 @@
 ---
 layout: page
-title: JavaFX
 ---
+
+# JavaFX
 
 Penekanan kita adalah penggunaan `WebView` yang disediakan oleh `JavaFX`, karena sangat mirip dengan `WebView` milik Android.
 
